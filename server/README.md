@@ -1,5 +1,5 @@
 # Crossout Navigation Engine: Distributed Pathfinding and Map Server
-This is a backend service for a Crossout automation bot. It handles navigation and map processing on a separate server so the main bot can focus on image processing and combat. It is meant to work with crossoutBotClient.
+This is a backend service for a Crossout automation bot. It handles navigation and map processing on a separate server so the main bot can focus on image processing and combat.
 
 ## Technical Highlights
 - **Distributed Backend**: I split the bot into a client and a server. This server handles all the complex pathfinding calculations using FastAPI and WebSockets for fast, real-time communication.

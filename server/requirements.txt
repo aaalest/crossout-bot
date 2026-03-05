@@ -1,0 +1,9 @@
+# requirements were AI generated
+numpy
+opencv-python
+fastapi
+uvicorn
+scipy
+pydantic
+jinja2
+python-multipart

@@ -1,0 +1,19 @@
+# requirements were AI generated
+numpy
+opencv-python
+mss
+dxcam
+keyboard
+pydirectinput
+pywin32
+matplotlib
+scipy
+websockets
+aiohttp
+requests
+pydantic
+pillow
+pyjson5
+pygame
+line_profiler
+pynput

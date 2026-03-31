@@ -1,6 +1,12 @@
 # Crossout Automation: Distributed Bot System
 This project is a game automation system for Crossout, consisting of a high-speed client and a dedicated pathfinding server. Explores real-time computer vision, multi-threaded architecture, and distributed systems.
 
+<figure>
+  <img src=".github/images/crossout-bot-demo-exaple.jpeg" alt="Crossout Bot Demo" width="600">
+  <figcaption><i>A screenshot of the bot’s interface and processing capabilities during early-stage development.</i></figcaption>
+</figure>
+
+
 ## Project Overview
 The system is split into two main components to optimize performance:
 1.  **[client](./client)**: Handles real-time screen capture, player location, enemy detection, game state awareness, and input simulation.
